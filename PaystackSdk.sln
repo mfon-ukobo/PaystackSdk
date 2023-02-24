@@ -9,8 +9,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{0B80DCAC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaystackSdk.Core", "PaystackSdk.Core\PaystackSdk.Core.csproj", "{B091FF2C-6662-4669-B50A-56E0AAA0406E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaystackSdk.Models", "PaystackSdk.Models\PaystackSdk.Models.csproj", "{21B1C0DD-051C-451F-A417-2082B448D6B3}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,17 +19,12 @@ Global
 		{B091FF2C-6662-4669-B50A-56E0AAA0406E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B091FF2C-6662-4669-B50A-56E0AAA0406E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B091FF2C-6662-4669-B50A-56E0AAA0406E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{21B1C0DD-051C-451F-A417-2082B448D6B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{21B1C0DD-051C-451F-A417-2082B448D6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{21B1C0DD-051C-451F-A417-2082B448D6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{21B1C0DD-051C-451F-A417-2082B448D6B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B091FF2C-6662-4669-B50A-56E0AAA0406E} = {020F9E12-E65B-41CF-BD09-55A529F02263}
-		{21B1C0DD-051C-451F-A417-2082B448D6B3} = {020F9E12-E65B-41CF-BD09-55A529F02263}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {36257F76-94E9-4C50-935B-B680ABA78F87}
